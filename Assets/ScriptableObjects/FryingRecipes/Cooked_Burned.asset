@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8d246955bfb00140b84c6c8e481d75d, type: 3}
+  m_Name: Cooked_Burned
+  m_EditorClassIdentifier: 
+  origin: {fileID: 11400000, guid: 453e2513610c9f940b944dad8f245b79, type: 2}
+  fried: {fileID: 11400000, guid: 1c3ecc9af50541e498fe0a578fba3d1f, type: 2}
+  fryingTimerMax: 5
+  state: 2
